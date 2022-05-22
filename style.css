@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    margin: 0%;
+}
+.header {
+    height: 100px;
+    background-color: #4e342e;
+}
+.footer{
+    background-color: #4e342e;
+    bottom: 0%;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+}
+.app-title {
+    color: #efebe9;
+    font-weight: bold;
+}
+h5{
+    color: #efebe9;
+    margin: 10px;    
+}
